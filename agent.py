@@ -68,7 +68,7 @@ class DuelingDDQNAgent:
         gamma=0.99,
         eps_min=0.1,
         eps_dec=5e-7,
-        batch_size=256,
+        batch_size=32,
         mem_size=300000,
         replace_target_count=1000,
     ):
