@@ -1,6 +1,6 @@
 import gymnasium as gym
 import utils
-from agent import DDQNAgent
+from agent import DuelingDDQNAgent
 import numpy as np
 import os
 import torch
@@ -29,7 +29,7 @@ def run(args):
     print(f"Obs.Space: {envs.single_observation_space.shape}")
     print(f"Act.Space: {envs.single_action_space.n}")
 
-    agent = DDQNAgent(
+    agent = DuelingDDQNAgent(
         args.env,
         envs.single_observation_space.shape,
         envs.single_action_space.n,
@@ -77,12 +77,9 @@ def run(args):
             agent.save_checkpoint()
 
         with torch.no_grad():
-            avg_q_value = (
-                torch.minimum(agent.q1(fixed_states), agent.q2(fixed_states))
-                .mean()
-                .cpu()
-                .numpy()
-            )
+            q1_val, _ = agent.q1(fixed_states)
+            q2_val, _ = agent.q2(fixed_states)
+            avg_q_value = torch.minimum(q1_val, q2_val).mean().cpu().numpy()
 
         metrics.append(
             {
