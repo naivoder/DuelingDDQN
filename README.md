@@ -76,34 +76,34 @@ Using a Conda environment along with these flexible command-line options will he
 
 ## Results
 
-<!--<table>
+<table>
     <tr>
         <td>
-            <p><b>Adventure</b></p>
-            <img src="environments/AdventureNoFrameskip-v4.gif" width="250" height="250"/>
+            <p><b>AirRaid</b></p>
+            <img src="environments/AirRaidNoFrameskip-v4.gif" width="250" height="250"/>
         </td>
-        <td>
+        <!--<td>
             <p><b>AirRaid</b></p>
             <img src="environments/AirRaidNoFrameskip-v4.gif" width="250" height="250"/>
         </td>
         <td>
             <p><b>Alien</b></p>
             <img src="environments/AlienNoFrameskip-v4.gif" width="250" height="250"/>
-        </td>
+        </td>-->
     </tr>
     <tr>
         <td>
-            <img src="metrics/AdventureNoFrameskip-v4_metrics.png" width="250" height="250"/>
+            <img src="metrics/AirRaidNoFrameskip-v4_metrics.png" width="250" height="250"/>
         </td>
-        <td>
+        <!--<td>
             <img src="metrics/AirRaidNoFrameskip-v4_running_avg.png" width="250" height="250"/>
         </td>
         <td>
             <img src="metrics/AlienNoFrameskip-v4_running_avg.png" width="250" height="250"/>
-        </td>
+        </td>-->
     </tr>
 </table>
-<table>
+<!--<table>
     <tr>
         <td>
             <p><b>Amidar</b></p>
