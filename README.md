@@ -82,25 +82,25 @@ Using a Conda environment along with these flexible command-line options will he
             <p><b>AirRaid</b></p>
             <img src="environments/AirRaidNoFrameskip-v4.gif" width="250" height="250"/>
         </td>
-        <!--<td>
-            <p><b>AirRaid</b></p>
-            <img src="environments/AirRaidNoFrameskip-v4.gif" width="250" height="250"/>
-        </td>
         <td>
             <p><b>Alien</b></p>
             <img src="environments/AlienNoFrameskip-v4.gif" width="250" height="250"/>
-        </td>-->
+        </td>
+        <td>
+            <p><b>Amidar</b></p>
+            <img src="environments/AmidarNoFrameskip-v4.gif" width="250" height="250"/>
+        </td>
     </tr>
     <tr>
         <td>
             <img src="metrics/AirRaidNoFrameskip-v4_metrics.png" width="250" height="250"/>
         </td>
-        <!--<td>
-            <img src="metrics/AirRaidNoFrameskip-v4_running_avg.png" width="250" height="250"/>
+        <td>
+            <img src="metrics/AlienNoFrameskip-v4_metrics.png" width="250" height="250"/>
         </td>
         <td>
-            <img src="metrics/AlienNoFrameskip-v4_running_avg.png" width="250" height="250"/>
-        </td>-->
+            <img src="metrics/AmidarNoFrameskip-v4_metrics.png" width="250" height="250"/>
+        </td>
     </tr>
 </table>
 <!--<table>
