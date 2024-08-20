@@ -103,12 +103,8 @@ Using a Conda environment along with these flexible command-line options will he
         </td>
     </tr>
 </table>
-<!--<table>
+<table>
     <tr>
-        <td>
-            <p><b>Amidar</b></p>
-            <img src="environments/AmidarNoFrameskip-v4.gif" width="250" height="250"/>
-        </td>
         <td>
             <p><b>Assault</b></p>
             <img src="environments/AssaultNoFrameskip-v4.gif" width="250" height="250"/>
@@ -117,20 +113,24 @@ Using a Conda environment along with these flexible command-line options will he
             <p><b>Asterix</b></p>
             <img src="environments/AsterixNoFrameskip-v4.gif" width="250" height="250"/>
         </td>
+        <!--<td>
+            <p><b>Amidar</b></p>
+            <img src="environments/AmidarNoFrameskip-v4.gif" width="250" height="250"/>
+        </td>-->
     </tr>
     <tr>
         <td>
+            <img src="metrics/AssaultNoFrameskip-v4_metrics.png" width="250" height="250"/>
+        </td>
+        <td>
+            <img src="metrics/AsterixNoFrameskip-v4_metrics.png" width="250" height="250"/>
+        </td>
+        <!--<td>
             <img src="metrics/AmidarNoFrameskip-v4_running_avg.png" width="250" height="250"/>
-        </td>
-        <td>
-            <img src="metrics/AssaultNoFrameskip-v4_running_avg.png" width="250" height="250"/>
-        </td>
-        <td>
-            <img src="metrics/AsterixNoFrameskip-v4_running_avg.png" width="250" height="250"/>
-        </td>
+        </td>-->
     </tr>
 </table>
-<table>
+<!--<table>
     <tr>
         <td>
             <p><b>Asteroids</b></p>
