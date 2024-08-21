@@ -130,34 +130,34 @@ Using a Conda environment along with these flexible command-line options will he
         </td>
     </tr>
 </table>
-<!--<table>
+<table>
     <tr>
         <td>
-            <p><b>Asteroids</b></p>
-            <img src="environments/AsteroidsNoFrameskip-v4.gif" width="250" height="250"/>
+            <p><b>Atlantis</b></p>
+            <img src="environments/AtlantisNoFrameskip-v4.gif" width="250" height="250"/>
         </td>
-        <td>
+        <!--<td>
             <p><b>Atlantis</b></p>
             <img src="environments/AtlantisNoFrameskip-v4.gif" width="250" height="250"/>
         </td>
         <td>
             <p><b>BankHeist</b></p>
             <img src="environments/BankHeistNoFrameskip-v4.gif" width="250" height="250"/>
-        </td>
+        </td>-->
     </tr>
     <tr>
         <td>
-            <img src="metrics/AsteroidsNoFrameskip-v4_running_avg.png" width="250" height="250"/>
+            <img src="metrics/AtlantisNoFrameskip-v4_metrics.png" width="250" height="250"/>
         </td>
-        <td>
+        <!--<td>
             <img src="metrics/AtlantisNoFrameskip-v4_running_avg.png" width="250" height="250"/>
         </td>
         <td>
             <img src="metrics/BankHeistNoFrameskip-v4_running_avg_q.png" width="250" height="250"/>
-        </td>
+        </td>-->
     </tr>
 </table>
-<table>
+<!--<table>
     <tr>
         <td>
             <p><b>BattleZone</b></p>
