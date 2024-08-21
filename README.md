@@ -113,10 +113,10 @@ Using a Conda environment along with these flexible command-line options will he
             <p><b>Asterix</b></p>
             <img src="environments/AsterixNoFrameskip-v4.gif" width="250" height="250"/>
         </td>
-        <!--<td>
-            <p><b>Amidar</b></p>
-            <img src="environments/AmidarNoFrameskip-v4.gif" width="250" height="250"/>
-        </td>-->
+        <td>
+            <p><b>Asteroids</b></p>
+            <img src="environments/AsteroidsNoFrameskip-v4.gif" width="250" height="250"/>
+        </td>
     </tr>
     <tr>
         <td>
@@ -125,9 +125,9 @@ Using a Conda environment along with these flexible command-line options will he
         <td>
             <img src="metrics/AsterixNoFrameskip-v4_metrics.png" width="250" height="250"/>
         </td>
-        <!--<td>
-            <img src="metrics/AmidarNoFrameskip-v4_running_avg.png" width="250" height="250"/>
-        </td>-->
+        <td>
+            <img src="metrics/AsteroidsNoFrameskip-v4_metrics.png" width="250" height="250"/>
+        </td>
     </tr>
 </table>
 <!--<table>
