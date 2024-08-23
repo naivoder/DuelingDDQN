@@ -140,10 +140,10 @@ Using a Conda environment along with these flexible command-line options will he
             <p><b>BankHeist</b></p>
             <img src="environments/BankHeistNoFrameskip-v4.gif" width="250" height="250"/>
         </td>
-        <!--<td>
-            <p><b>BankHeist</b></p>
-            <img src="environments/BankHeistNoFrameskip-v4.gif" width="250" height="250"/>
-        </td>-->
+        <td>
+            <p><b>BattleZone</b></p>
+            <img src="environments/BattleZoneNoFrameskip-v4.gif" width="250" height="250"/>
+        </td>
     </tr>
     <tr>
         <td>
@@ -152,9 +152,9 @@ Using a Conda environment along with these flexible command-line options will he
         <td>
             <img src="metrics/BankHeistNoFrameskip-v4_metrics.png" width="250" height="250"/>
         </td>
-        <!--<td>
-            <img src="metrics/BankHeistNoFrameskip-v4_running_avg_q.png" width="250" height="250"/>
-        </td>-->
+        <td>
+            <img src="metrics/BattleZoneNoFrameskip-v4_metrics.png" width="250" height="250"/>
+        </td>
     </tr>
 </table>
 <!--<table>
