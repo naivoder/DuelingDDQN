@@ -157,34 +157,27 @@ Using a Conda environment along with these flexible command-line options will he
         </td>
     </tr>
 </table>
-<!--<table>
+<table>
     <tr>
-        <td>
-            <p><b>BattleZone</b></p>
-            <img src="environments/BattleZoneNoFrameskip-v4.gif" width="250" height="250"/>
-        </td>
         <td>
             <p><b>BeamRider</b></p>
             <img src="environments/BeamRiderNoFrameskip-v4.gif" width="250" height="250"/>
         </td>
-        <td>
+        <!--<td>
             <p><b>Berzerk</b></p>
             <img src="environments/BerzerkNoFrameskip-v4.gif" width="250" height="250"/>
-        </td>
+        </td>-->
     </tr>
     <tr>
         <td>
-            <img src="metrics/BattleZoneNoFrameskip-v4_running_avg_q.png" width="250" height="250"/>
+            <img src="metrics/BeamRiderNoFrameskip-v4_metrics.png" width="250" height="250"/>
         </td>
-        <td>
-            <img src="metrics/BeamRiderNoFrameskip-v4_running_avg_q.png" width="250" height="250"/>
-        </td>
-        <td>
+        <!--<td>
             <img src="metrics/BerzerkNoFrameskip-v4_running_avg_q.png" width="250" height="250"/>
-        </td>
+        </td>-->
     </tr>
 </table>
-<table>
+<!--<table>
     <tr>
         <td>
             <p><b>Bowling</b></p>
