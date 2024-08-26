@@ -190,18 +190,18 @@ Using a Conda environment along with these flexible command-line options will he
             <p><b>Boxing</b></p>
             <img src="environments/BoxingNoFrameskip-v4.gif" width="250" height="250"/>
         </td>
-        <!--<td>
+        <<td>
             <p><b>Breakout</b></p>
             <img src="environments/BreakoutNoFrameskip-v4.gif" width="250" height="250"/>
-        </td>-->
+        </td>
     </tr>
     <tr>
         <td>
             <img src="metrics/BoxingNoFrameskip-v4_metrics.png" width="250" height="250"/>
         </td>
-        <!--<td>
-            <img src="metrics/BreakoutNoFrameskip-v4_running_avg_q.png" width="250" height="250"/>
-        </td>-->
+        <td>
+            <img src="metrics/BreakoutNoFrameskip-v4_metrics.png" width="250" height="250"/>
+        </td>
     </tr>
 </table>
 <!--<table>
