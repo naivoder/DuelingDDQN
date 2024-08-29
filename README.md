@@ -238,27 +238,27 @@ Using a Conda environment along with these flexible command-line options will he
         </td>
     </tr>
 </table>
-<!--<table>
+<table>
     <tr>
         <td>
             <p><b>Defender</b></p>
-            <img src="environments/DefenderNoFrameskip-v4.gif" width="250" height="250"/>
+            <img src="environments/DefenderNoFrameskip-v4_Final.gif" width="250" height="250"/>
         </td>
-        <td>
+        <!--<td>
             <p><b>DemonAttack</b></p>
             <img src="environments/DemonAttackNoFrameskip-v4.gif" width="250" height="250"/>
-        </td>
+        </td>-->
     </tr>
     <tr>
         <td>
-            <img src="metrics/DefenderNoFrameskip-v4_running_avg_q.png" width="250" height="250"/>
+            <img src="metrics/DefenderNoFrameskip-v4_metrics.png" width="250" height="250"/>
         </td>
-        <td>
+        <!--<td>
             <img src="metrics/DemonAttackNoFrameskip-v4_running_avg_q.png" width="250" height="250"/>
-        </td>
+        </td>-->
     </tr>
 </table>
-<table>
+<!--<table>
     <tr>
         <td>
             <p><b>DoubleDunk</b></p>
