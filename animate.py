@@ -3,7 +3,10 @@ import torch
 from agent import DuelingDDQNAgent
 from argparse import ArgumentParser
 from utils import save_animation
+from tqdm import tqdm
+from warnings import simplefilter
 
+simplefilter("ignore")
 
 def generate_animation(env_name, final=True):
     env = AtariEnv(
@@ -32,7 +35,7 @@ def generate_animation(env_name, final=True):
     best_total_reward = float("-inf")
     best_frames = None
 
-    for seed in range(100):
+    for seed in tqdm(range(100)):
         frames = []
         total_reward = 0
 
