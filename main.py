@@ -83,9 +83,7 @@ def run(args):
 
         metrics.append(
             {
-                "episode": i + 1,
                 "average_score": avg_score,
-                "best_score": best_score,
                 "average_q_value": avg_q_value,
             }
         )
