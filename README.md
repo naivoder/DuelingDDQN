@@ -271,26 +271,29 @@ Using a Conda environment along with these flexible command-line options will he
             <p><b>ElevatorAction</b></p>
             <img src="environments/ElevatorActionNoFrameskip-v4_Final.gif" width="250" height="250"/>
         </td>
-        <!--<td>
+        <td>
             <p><b>Enduro</b></p>
             <img src="environments/EnduroNoFrameskip-v4.gif" width="250" height="250"/>
-        </td>-->
+        </td>
+        <td>
+            <p><b>FishingDerby</b></p>
+            <img src="environments/FishingDerbyNoFrameskip-v4.gif" width="250" height="250"/>
+        </td>
     </tr>
     <tr>
         <td>
             <img src="metrics/ElevatorActionNoFrameskip-v4_metrics.png" width="250" height="250"/>
         </td>
-        <!--<td>
-            <img src="metrics/EnduroNoFrameskip-v4_running_avg_q.png" width="250" height="250"/>
-        </td>-->
+        <td>
+            <img src="metrics/EnduroNoFrameskip-v4_metrics.png" width="250" height="250"/>
+        </td>
+        <td>
+            <img src="metrics/FishingDerbyNoFrameskip-v4_metrics.png" width="250" height="250"/>
+        </td>
     </tr>
 </table>
 <!--<table>
     <tr>
-        <td>
-            <p><b>FishingDerby</b></p>
-            <img src="environments/FishingDerbyNoFrameskip-v4.gif" width="250" height="250"/>
-        </td>
         <td>
             <p><b>Freeway</b></p>
             <img src="environments/FreewayNoFrameskip-v4.gif" width="250" height="250"/>
@@ -301,9 +304,6 @@ Using a Conda environment along with these flexible command-line options will he
         </td>
     </tr>
     <tr>
-        <td>
-            <img src="metrics/FishingDerbyNoFrameskip-v4_running_avg_q.png" width="250" height="250"/>
-        </td>
         <td>
             <img src="metrics/FreewayNoFrameskip-v4_running_avg_q.png" width="250" height="250"/>
         </td>
