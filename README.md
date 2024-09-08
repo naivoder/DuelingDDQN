@@ -346,7 +346,7 @@ Using a Conda environment along with these flexible command-line options will he
         </td>
     </tr>
 </table>
-<!--<table>
+<table>
     <tr>
         <td>
             <p><b>JamesBond</b></p>
@@ -359,14 +359,14 @@ Using a Conda environment along with these flexible command-line options will he
     </tr>
     <tr>
         <td>
-            <img src="metrics/JamesbondNoFrameskip-v4_running_avg_q.png" width="250" height="250"/>
+            <img src="metrics/JamesbondNoFrameskip-v4_metrics.png" width="250" height="250"/>
         </td>
         <td>
-            <img src="metrics/JourneyEscapeNoFrameskip-v4_running_avg_q.png" width="250" height="250"/>
+            <img src="metrics/JourneyEscapeNoFrameskip-v4_metrics.png" width="250" height="250"/>
         </td>
     </tr>
 </table>
-<table>
+<!--<table>
     <tr>
         <td>
             <p><b>Kangaroo</b></p>
