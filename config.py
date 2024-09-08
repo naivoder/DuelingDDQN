@@ -31,7 +31,7 @@ environments = [
     "IceHockeyNoFrameskip-v4",
     "JamesbondNoFrameskip-v4",
     "JourneyEscapeNoFrameskip-v4",
-    "KangerooNoFrameskip-v4",
+    "KangarooNoFrameskip-v4",
     "KrullNoFrameskip-v4",
     "KungFuMasterNoFrameskip-v4",
     "MontezumaRevengeNoFrameskip-v4",
