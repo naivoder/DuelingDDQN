@@ -410,6 +410,10 @@ Using a Conda environment along with these flexible command-line options will he
             <p><b>NameThisGame</b></p>
             <img src="environments/NameThisGameNoFrameskip-v4.gif" width="250" height="250"/>
         </td>
+        <td>
+            <p><b>Phoenix</b></p>
+            <img src="environments/PhoenixNoFrameskip-v4_Final.gif" width="250" height="250"/>
+        </td>
     </tr>
     <tr>
         <td>
@@ -418,14 +422,13 @@ Using a Conda environment along with these flexible command-line options will he
         <td>
             <img src="metrics/NameThisGameNoFrameskip-v4_metrics.png" width="250" height="250"/>
         </td>
+        <td>
+            <img src="metrics/PhoenixNoFrameskip-v4_metrics.png" width="250" height="250"/>
+        </td>
     </tr>
 </table>
 <!--<table>
     <tr>
-        <td>
-            <p><b>Phoenix</b></p>
-            <img src="environments/PhoenixNoFrameskip-v4.gif" width="250" height="250"/>
-        </td>
         <td>
             <p><b>Pitfall</b></p>
             <img src="environments/PitfallNoFrameskip-v4.gif" width="250" height="250"/>
@@ -436,9 +439,6 @@ Using a Conda environment along with these flexible command-line options will he
         </td>
     </tr>
     <tr>
-        <td>
-            <img src="metrics/PhoenixNoFrameskip-v4_metrics.png" width="250" height="250"/>
-        </td>
         <td>
             <img src="metrics/PitfallNoFrameskip-v4_metrics.png" width="250" height="250"/>
         </td>
