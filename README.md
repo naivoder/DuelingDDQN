@@ -427,7 +427,7 @@ Using a Conda environment along with these flexible command-line options will he
         </td>
     </tr>
 </table>
-<!--<table>
+<table>
     <tr>
         <td>
             <p><b>Pitfall</b></p>
@@ -447,7 +447,7 @@ Using a Conda environment along with these flexible command-line options will he
         </td>
     </tr>
 </table>
-<table>
+<!--<table>
     <tr>
         <td>
             <p><b>Pooyan</b></p>
