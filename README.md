@@ -460,26 +460,29 @@ Using a Conda environment along with these flexible command-line options will he
             <p><b>PrivateEye</b></p>
             <img src="environments/PrivateEyeNoFrameskip-v4.gif" width="250" height="250"/>
         </td>
-        <!--<td>
+        <td>
             <p><b>Qbert</b></p>
             <img src="environments/QbertNoFrameskip-v4.gif" width="250" height="250"/>
-        </td>-->
+        </td>
+        <td>
+            <p><b>Riverraid</b></p>
+            <img src="environments/RiverraidNoFrameskip-v4.gif" width="250" height="250"/>
+        </td>
     </tr>
     <tr>
         <td>
             <img src="metrics/PrivateEyeNoFrameskip-v4_metrics.png" width="250" height="250"/>
         </td>
-        <!--<td>
+        <td>
             <img src="metrics/QbertNoFrameskip-v4_metrics.png" width="250" height="250"/>
-        </td>-->
+        </td>
+        <td>
+            <img src="metrics/RiverraidNoFrameskip-v4_metrics.png" width="250" height="250"/>
+        </td>
     </tr>
 </table>
 <!--<table>
     <tr>
-        <td>
-            <p><b>Riverraid</b></p>
-            <img src="environments/RiverraidNoFrameskip-v4.gif" width="250" height="250"/>
-        </td>
         <td>
             <p><b>RoadRunner</b></p>
             <img src="environments/RoadRunnerNoFrameskip-v4.gif" width="250" height="250"/>
@@ -490,9 +493,6 @@ Using a Conda environment along with these flexible command-line options will he
         </td>
     </tr>
     <tr>
-        <td>
-            <img src="metrics/RiverraidNoFrameskip-v4_metrics.png" width="250" height="250"/>
-        </td>
         <td>
             <img src="metrics/RoadRunnerNoFrameskip-v4_metrics.png" width="250" height="250"/>
         </td>
