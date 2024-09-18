@@ -491,6 +491,10 @@ Using a Conda environment along with these flexible command-line options will he
             <p><b>Robotank</b></p>
             <img src="environments/RobotankNoFrameskip-v4.gif" width="250" height="250"/>
         </td>
+        <td>
+            <p><b>Seaquest</b></p>
+            <img src="environments/SeaquestNoFrameskip-v4.gif" width="250" height="250"/>
+        </td>
     </tr>
     <tr>
         <td>
@@ -499,36 +503,32 @@ Using a Conda environment along with these flexible command-line options will he
         <td>
             <img src="metrics/RobotankNoFrameskip-v4_metrics.png" width="250" height="250"/>
         </td>
-    </tr>
-</table>
-<!--<table>
-    <tr>
-        <td>
-            <p><b>Seaquest</b></p>
-            <img src="environments/SeaquestNoFrameskip-v4.gif" width="250" height="250"/>
-        </td>
-        <td>
-            <p><b>Skiing</b></p>
-            <img src="environments/SkiingNoFrameskip-v4.gif" width="250" height="250"/>
-        </td>
-        <td>
-            <p><b>Solaris</b></p>
-            <img src="environments/SolarisNoFrameskip-v4.gif" width="250" height="250"/>
-        </td>
-    </tr>
-    <tr>
         <td>
             <img src="metrics/SeaquestNoFrameskip-v4_metrics.png" width="250" height="250"/>
-        </td>
-        <td>
-            <img src="metrics/SkiingNoFrameskip-v4_metrics.png" width="250" height="250"/>
-        </td>
-        <td>
-            <img src="metrics/SolarisNoFrameskip-v4_metrics.png" width="250" height="250"/>
         </td>
     </tr>
 </table>
 <table>
+    <tr>
+        <td>
+            <p><b>Skiing</b></p>
+            <img src="environments/SkiingNoFrameskip-v4.gif" width="250" height="250"/>
+        </td>
+        <!--<td>
+            <p><b>Solaris</b></p>
+            <img src="environments/SolarisNoFrameskip-v4.gif" width="250" height="250"/>
+        </td>-->
+    </tr>
+    <tr>
+        <td>
+            <img src="metrics/SkiingNoFrameskip-v4_metrics.png" width="250" height="250"/>
+        </td>
+        <!--<td>
+            <img src="metrics/SolarisNoFrameskip-v4_metrics.png" width="250" height="250"/>
+        </td>-->
+    </tr>
+</table>
+<!--<table>
     <tr>
         <td>
             <p><b>SpaceInvaders</b></p>
