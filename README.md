@@ -541,18 +541,18 @@ Using a Conda environment along with these flexible command-line options will he
             <p><b>StarGunner</b></p>
             <img src="environments/StarGunnerNoFrameskip-v4.gif" width="250" height="250"/>
         </td>
-        <!--<td>
+        <td>
             <p><b>Tennis</b></p>
-            <img src="environments/TennisNoFrameskip-v4.gif" width="250" height="250"/>
-        </td>-->
+            <img src="environments/TennisNoFrameskip-v4_Final.gif" width="250" height="250"/>
+        </td>
     </tr>
     <tr>
         <td>
             <img src="metrics/StarGunnerNoFrameskip-v4_metrics.png" width="250" height="250"/>
         </td>
-        <!--<td>
+        <td>
             <img src="metrics/TennisNoFrameskip-v4_metrics.png" width="250" height="250"/>
-        </td>-->
+        </td>
     </tr>
 </table>
 <!--<table>
