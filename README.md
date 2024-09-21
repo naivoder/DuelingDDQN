@@ -555,7 +555,7 @@ Using a Conda environment along with these flexible command-line options will he
         </td>
     </tr>
 </table>
-<!--<table>
+<table>
     <tr>
         <td>
             <p><b>TimePilot</b></p>
@@ -565,10 +565,10 @@ Using a Conda environment along with these flexible command-line options will he
             <p><b>Tutankham</b></p>
             <img src="environments/TutankhamNoFrameskip-v4.gif" width="250" height="250"/>
         </td>
-        <td>
+        <!--<td>
             <p><b>UpNDown</b></p>
             <img src="environments/UpNDownNoFrameskip-v4.gif" width="250" height="250"/>
-        </td>
+        </td>-->
     </tr>
     <tr>
         <td>
@@ -577,12 +577,12 @@ Using a Conda environment along with these flexible command-line options will he
         <td>
             <img src="metrics/TutankhamNoFrameskip-v4_metrics.png" width="250" height="250"/>
         </td>
-        <td>
+        <!--<td>
             <img src="metrics/UpNDownNoFrameskip-v4_metrics.png" width="250" height="250"/>
-        </td>
+        </td>-->
     </tr>
 </table>
-<table>
+<!--<table>
     <tr>
         <td>
             <p><b>Venture</b></p>
