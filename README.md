@@ -545,6 +545,10 @@ Using a Conda environment along with these flexible command-line options will he
             <p><b>Tennis</b></p>
             <img src="environments/TennisNoFrameskip-v4_Final.gif" width="250" height="250"/>
         </td>
+        <td>
+            <p><b>TimePilot</b></p>
+            <img src="environments/TimePilotNoFrameskip-v4.gif" width="250" height="250"/>
+        </td>
     </tr>
     <tr>
         <td>
@@ -553,41 +557,40 @@ Using a Conda environment along with these flexible command-line options will he
         <td>
             <img src="metrics/TennisNoFrameskip-v4_metrics.png" width="250" height="250"/>
         </td>
+        <td>
+            <img src="metrics/TimePilotNoFrameskip-v4_metrics.png" width="250" height="250"/>
+        </td>
     </tr>
 </table>
 <table>
     <tr>
         <td>
-            <p><b>TimePilot</b></p>
-            <img src="environments/TimePilotNoFrameskip-v4.gif" width="250" height="250"/>
-        </td>
-        <td>
             <p><b>Tutankham</b></p>
             <img src="environments/TutankhamNoFrameskip-v4.gif" width="250" height="250"/>
         </td>
-        <!--<td>
+        <td>
             <p><b>UpNDown</b></p>
             <img src="environments/UpNDownNoFrameskip-v4.gif" width="250" height="250"/>
-        </td>-->
-    </tr>
-    <tr>
-        <td>
-            <img src="metrics/TimePilotNoFrameskip-v4_metrics.png" width="250" height="250"/>
         </td>
-        <td>
-            <img src="metrics/TutankhamNoFrameskip-v4_metrics.png" width="250" height="250"/>
-        </td>
-        <!--<td>
-            <img src="metrics/UpNDownNoFrameskip-v4_metrics.png" width="250" height="250"/>
-        </td>-->
-    </tr>
-</table>
-<!--<table>
-    <tr>
         <td>
             <p><b>Venture</b></p>
             <img src="environments/VentureNoFrameskip-v4.gif" width="250" height="250"/>
         </td>
+    </tr>
+    <tr> 
+        <td>
+            <img src="metrics/TutankhamNoFrameskip-v4_metrics.png" width="250" height="250"/>
+        </td>
+        <td>
+            <img src="metrics/UpNDownNoFrameskip-v4_metrics.png" width="250" height="250"/>
+        </td>
+        <td>
+            <img src="metrics/VentureNoFrameskip-v4_metrics.png" width="250" height="250"/>
+        </td>
+    </tr>
+</table>
+<!--<table>
+    <tr> 
         <td>
             <p><b>VideoPinball</b></p>
             <img src="environments/VideoPinballNoFrameskip-v4.gif" width="250" height="250"/>
@@ -598,9 +601,6 @@ Using a Conda environment along with these flexible command-line options will he
         </td>
     </tr>
     <tr>
-        <td>
-            <img src="metrics/VentureNoFrameskip-v4_metrics.png" width="250" height="250"/>
-        </td>
         <td>
             <img src="metrics/VideoPinballNoFrameskip-v4_metrics.png" width="250" height="250"/>
         </td>
