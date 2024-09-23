@@ -589,27 +589,27 @@ Using a Conda environment along with these flexible command-line options will he
         </td>
     </tr>
 </table>
-<!--<table>
+<table>
     <tr> 
         <td>
             <p><b>VideoPinball</b></p>
             <img src="environments/VideoPinballNoFrameskip-v4.gif" width="250" height="250"/>
         </td>
-        <td>
+        <!--<td>
             <p><b>WizardOfWor</b></p>
             <img src="environments/WizardOfWorNoFrameskip-v4.gif" width="250" height="250"/>
-        </td>
+        </td>-->
     </tr>
     <tr>
         <td>
             <img src="metrics/VideoPinballNoFrameskip-v4_metrics.png" width="250" height="250"/>
         </td>
-        <td>
+        <!--<td>
             <img src="metrics/WizardOfWorNoFrameskip-v4_metrics.png" width="250" height="250"/>
-        </td>
+        </td>-->
     </tr>
 </table>
-<table>
+<!--<table>
     <tr>
         <td>
             <p><b>YarsRevenge</b></p>
