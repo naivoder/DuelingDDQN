@@ -599,6 +599,10 @@ Using a Conda environment along with these flexible command-line options will he
             <p><b>WizardOfWor</b></p>
             <img src="environments/WizardOfWorNoFrameskip-v4.gif" width="250" height="250"/>
         </td>
+        <td>
+            <p><b>YarsRevenge</b></p>
+            <img src="environments/YarsRevengeNoFrameskip-v4.gif" width="250" height="250"/>
+        </td>
     </tr>
     <tr>
         <td>
@@ -607,23 +611,19 @@ Using a Conda environment along with these flexible command-line options will he
         -<td>
             <img src="metrics/WizardOfWorNoFrameskip-v4_metrics.png" width="250" height="250"/>
         </td>
+        <td>
+            <img src="metrics/YarsRevengeNoFrameskip-v4_metrics.png" width="250" height="250"/>
+        </td>
     </tr>
 </table>
 <!--<table>
     <tr>
-        <td>
-            <p><b>YarsRevenge</b></p>
-            <img src="environments/YarsRevengeNoFrameskip-v4.gif" width="250" height="250"/>
-        </td>
         <td>
             <p><b>Zaxxon</b></p>
             <img src="environments/ZaxxonNoFrameskip-v4.gif" width="250" height="250"/>
         </td>
     </tr>
     <tr>
-        <td>
-            <img src="metrics/YarsRevengeNoFrameskip-v4_metrics.png" width="250" height="250"/>
-        </td>
         <td>
             <img src="metrics/ZaxxonNoFrameskip-v4_metrics.png" width="250" height="250"/>
         </td>
