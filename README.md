@@ -616,19 +616,26 @@ Using a Conda environment along with these flexible command-line options will he
         </td>
     </tr>
 </table>
-<!--<table>
+<table>
     <tr>
         <td>
             <p><b>Zaxxon</b></p>
             <img src="environments/ZaxxonNoFrameskip-v4.gif" width="250" height="250"/>
+        </td>
+        <td>
+            <p><b>Adventure</b></p>
+            <img src="environments/AdventureNoFrameskip-v4_Final.gif" width="250" height="250"/>
         </td>
     </tr>
     <tr>
         <td>
             <img src="metrics/ZaxxonNoFrameskip-v4_metrics.png" width="250" height="250"/>
         </td>
+        <td>
+            <img src="metrics/AdventureNoFrameskip-v4_metrics.png" width="250" height="250"/>
+        </td>
     </tr>
-</table>-->
+</table>
 
 ## Analysis
 
